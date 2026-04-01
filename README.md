@@ -1,9 +1,17 @@
+![Waving Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2&fontColor=FFFFFF&text=Full%20Stack%20Developer&fontSize=35)
+
 # 👋 Hi there, I'm Bethelhem-Yirga
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=false&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ## 🚀 About Me
+Passionate full-stack developer with expertise across multiple languages and frameworks. I love building robust, scalable applications and solving complex problems.
 
+- 💡 Passionate about **performance optimization** across the stack
+- 🌱 Always learning and adapting to new technologies
+- 👯 Open to collaborate on **open source projects** in Java, Python, or Go
+- ⚡ **What sets me apart:** Experience with systems languages (C++, Go, Java) gives me deeper understanding of performance and memory management — knowledge I bring to my frontend work. Result: **Faster, more efficient applications at every level.**
+- 💬 Ask me about **Java, Python, Go, or full-stack development**
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +49,31 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bethelhem-Yirga&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📊 Skills Distribution
+
+| Skill Area | Proficiency |
+|------------|-------------|
+| Backend Development | ██████████ 90% |
+| Frontend Development | █████████ 85% |
+| Database Management | █████████ 85% |
+| System Programming | ████████ 80% |
+
+## 🌟 What I Offer
+  
+| | |
+|---|---|
+| 🎯 **Versatility** | Adapt quickly to new technologies |
+| 💎 **Quality** | Deliver clean, functional code across the stack |
+| ⚡ **Performance** | Systems-level understanding for efficient applications |
+| 🔧 **Full-Stack** | From database to UI, I build complete solutions |
+
+## 🤝 Open To
+
+- 🚀 Full-stack development roles
+- ⚙️ Backend engineering positions
+- 🎨 Frontend development opportunities
+- 💡 Challenging projects where I can make an impact
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -63,3 +96,5 @@
 ⭐️ **Check out my repositories below!**
 
 </div>
+
+![Waving Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2)
