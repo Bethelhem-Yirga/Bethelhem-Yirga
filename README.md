@@ -36,6 +36,7 @@ Passionate full-stack developer with expertise across multiple languages and fra
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 ![JSF](https://img.shields.io/badge/-JSF-007396?style=flat-square&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Databases
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
