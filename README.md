@@ -9,7 +9,7 @@ Passionate full-stack developer with expertise across multiple languages and fra
 
 - 💡 Passionate about **performance optimization** across the stack
 - 🌱 Always learning and adapting to new technologies
-- 👯 Open to collaborate on **open source projects** in Java, Python, or Go
+- 👯 Open to collaborate on **open source projects** in Javascript, Python, react or nodeJS
 - ⚡ **What sets me apart:** Experience with systems languages (C++, Go, Java) gives me deeper understanding of performance and memory management — knowledge I bring to my frontend work. Result: **Faster, more efficient applications at every level.**
 - 💬 Ask me about **Java, Python, Go, or full-stack development**
 
